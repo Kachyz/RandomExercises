@@ -1,11 +1,11 @@
 Problema
-  Crear una función para validar que un valor recibido es una IPv4 valida
+  Crear una función para validar que un valor recibido es una IPv4 válida
 
 Input
   IP a validar
 
 Output
-  Boolen, true o false de acuerdo a la validez de la IP recibida
+  Boolean, true o false de acuerdo a la validez de la IP recibida
 
 Ejemplo
   Input - 192.168.1.1
@@ -16,4 +16,4 @@ Ejemplo
 
 
 Adicional
-  Integrar pruebas unitarias sencillas para validar el funcionamiento del metodo generado
+  Integrar pruebas unitarias sencillas para validar el funcionamiento del método generado
